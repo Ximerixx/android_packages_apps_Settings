@@ -249,11 +249,11 @@
     <!-- Vibration patterns -->
     <string name="vibration_pattern_title">Шаблон вибрации звонка</string>
     <string name="notification_vibration_pattern_title">Шаблон вибрации уведомлений</string>
-    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
-    <string name="pattern_dzzz_da">dzzz-da</string>
-    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
-    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
-    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_dzzz_dzzz">дзззз-дзззз</string>
+    <string name="pattern_dzzz_da">дзззз-дз</string>
+    <string name="pattern_mm_mm_mm">мм-мм-мм</string>
+    <string name="pattern_da_da_dzzz">дз-дз-дзззз</string>
+    <string name="pattern_da_dzzz_da">дз-дзззз-дз</string>
     <string name="pattern_custom">Пользовательский</string>
     <string name="custom_vibration_pattern_title">Пользовательский шаблон</string>
     <string name="custom_vibration_pattern_summary">Установить пользовательский шаблон вибрации</string>
